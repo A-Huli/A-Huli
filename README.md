@@ -4,7 +4,19 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 AI in Healthcare
 ----------------
 
-🏆 Forbes' 25 under 25 Young Innovators in Poland 🚀 Co-founder at TheLion.ai 🤖 Creator of UMIE datasets - the largest in the world dataset of radiology images with masks and labels unified to the shared ontology ✏️ I create free pen-and-paper learning resources for computer vision 🛠️ Developing innovative NLP and Computer Vision solutions 📊 Leading large-scale AI projects and teams 🔗 Bridging research and practical AI implementation 🤝 Shaping AI policy and applications in Poland 📚 Contributing to open-source AI/ML projects
+🏆 Forbes' 25 under 25 Young Innovators in Poland
+
+🚀 Co-founder at TheLion.ai 🤖 Creator of UMIE datasets - the largest in the world dataset of radiology images with masks and labels unified to the shared ontology ✏️ I create free pen-and-paper learning resources for computer vision
+
+🛠️ Developing innovative NLP and Computer Vision solutions
+
+📊 Leading large-scale AI projects and teams
+
+🔗 Bridging research and practical AI implementation
+
+🤝 Shaping AI policy and applications in Poland
+
+📚 Contributing to open-source AI/ML projects
 
 *   🌍  I'm based in Poland
 *   🚀  I'm currently working on [Foundation models for radiology](http://www.thelion.ai/)
