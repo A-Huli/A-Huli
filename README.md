@@ -6,7 +6,11 @@ AI in Healthcare
 
 🏆 Forbes' 25 under 25 Young Innovators in Poland
 
-🚀 Co-founder at TheLion.ai 🤖 Creator of UMIE datasets - the largest in the world dataset of radiology images with masks and labels unified to the shared ontology ✏️ I create free pen-and-paper learning resources for computer vision
+🚀 Co-founder at TheLion.ai
+
+🤖 Creator of UMIE datasets - the largest in the world dataset of radiology images with masks and labels unified to the shared ontology 
+
+✏️ I create free pen-and-paper learning resources for computer vision
 
 🛠️ Developing innovative NLP and Computer Vision solutions
 
